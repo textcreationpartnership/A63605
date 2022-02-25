@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true narrative of the proceedings at the Sessions-House in the Old-Baly [sic], which began on Wednesday the 13th of this instant October, and ended on Fryday the 15 following Giving an account of most of the remarkable trials there, viz. for murder, fellonies and burglaries, &amp;c. with a particular relation of their names, and the places of their committing their facts, with the number of those condemned to die, burn'd in the hand, transported and to be whipt.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A63605</idno>
+            <idno type="STC">Wing T2828</idno>
+            <idno type="STC">ESTC R213441</idno>
+            <idno type="EEBO-CITATION">99825824</idno>
+            <idno type="PROQUEST">99825824</idno>
+            <idno type="VID">30215</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A63605)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 30215)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2220:16)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true narrative of the proceedings at the Sessions-House in the Old-Baly [sic], which began on Wednesday the 13th of this instant October, and ended on Fryday the 15 following Giving an account of most of the remarkable trials there, viz. for murder, fellonies and burglaries, &amp;c. with a particular relation of their names, and the places of their committing their facts, with the number of those condemned to die, burn'd in the hand, transported and to be whipt.</title>
+                  <author>England and Wales. Court of Quarter Sessions of the Peace (London)</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by D. Mallet,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Copy has print show-through.</note>
+                  <note>Reproduction of the original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Trials --  England --  Early works to 1800.</term>
+               <term>Crime --  England --  Early works to 1800.</term>
+               <term>Criminals --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:30215:1" rendition="simple:additions"/>
+            <head>THE TRUE NARRATIVE OF THE PROCEEDINGS AT The Seſſions-Houſe IN THE OLD-BALY, Which began on <hi>Wedneſday</hi> the 13th of this inſtant <hi>October,</hi> and ended on <hi>Fryday</hi> the 15 following.</head>
+            <head type="sub">Giving an Account of moſt of the Remarkable Trials there, <hi>viz.</hi> For Murder, Fel<g ref="char:EOLhyphen"/>lonies and Burglaries, <hi>&amp;c.</hi> with a particular Relation of their Names, and the pla<g ref="char:EOLhyphen"/>ces of their committing their Facts, with the number of thoſe Condemned to die, Burn'd in the Hand, Tranſported and to be whipt.</head>
+            <p>THe firſt was <hi>Catherine Green,</hi> alias <hi>Johnſon,</hi> alias <hi>Dodſon,</hi> Tried for ſteal<g ref="char:EOLhyphen"/>ing eleven Yards of Lawn, vallued at nine ſhillings, on the ſeventeenh of <hi>September</hi> laſt, from one <hi>John Turner</hi> living in St, <hi>Lawrence</hi> Ju<g ref="char:EOLhyphen"/>ry, the manner thus, She coming in a Coach to his Shop-door, alight<g ref="char:EOLhyphen"/>ed and went in, pretending to buy ſome Linnen Cloth, and taking her opportu<g ref="char:EOLhyphen"/>nity conveyed the Goods aforeſaid into her Coat, or ſome other private place and then pretending a diſlike, or that ſhe found none for her turn, ſhe went into the Coach again, but Mr. <hi>Turner</hi> miſſing his Lawn followed her, and upon ſearch found it dropped in the Coach. She pleaded ſhe knew nothing of it, but upon full Evidence was found Guilty of the Fellony.</p>
+            <p>A ſecond Indictment was preferred againſt her by one Mr, <hi>King,</hi> for ſtealing of a Silver Tankard from him, vallued at four pound ten ſhillings, and a Scarff vallued ten ſhillings, one pair of Buttons vallued at one ſhilling. She coming to his Houſe in <hi>Southampton</hi>-Building, took a Lodging, pretending ſhe had a Hus<g ref="char:EOLhyphen"/>band living in <hi>Grays-Inn,</hi> and after having been there for ſome time, deſired to
+<pb n="2" facs="tcp:30215:2"/>have a Tankard of Beer ſet by her Bedſide, the which being done, ſhe very fair<g ref="char:EOLhyphen"/>ly the next morning, getting up betimes took the Goods mentioned and depart<g ref="char:EOLhyphen"/>ed. The Tankard was afterwards found in a Goldſmiths hands to whom ſhe had ſold it, her Plea was, that ſhe only borrowed it, and intended to reſtore it again; but that frivilous excuſe being common with ſuch kind of People and it being clearly proved againſt her, ſhe was brought in Guilty of this alſo.</p>
+            <p>
+               <hi>John Watkins</hi> and <hi>Edward Whettaker</hi> were Indicted for Murthering one <hi>Iſaack Smith</hi> a Watchman in <hi>Ivy</hi>-Lane on the 29th of <hi>May</hi> laſt, the manner thus, ſe<g ref="char:EOLhyphen"/>veral perſons about 3 of the Clock in the morning of the ſame day, coming down <hi>Paternoſter</hi> Row, made a noiſe and ſeemed very unruly as they came along whereupon the Deceaſed and another Watchman being upon their Stands, en<g ref="char:EOLhyphen"/>deavoured to ſtop them, in order to the<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r examining them, or having them be<g ref="char:EOLhyphen"/>fore the Conſtable to give an account of their buſineſs at ſuch an unreaſonable time; whereupon they reſiſted and fell to ſcuffling with the Watchman; <hi>Whit<g ref="char:EOLhyphen"/>taker</hi> ſtriking up one of their Heels, and <hi>Watkins</hi> beating down the others Lant<g ref="char:EOLhyphen"/>horn, whereupon the Diſpute grew very hot, ſo that after ſome hard Scuffle with the deceaſed, <hi>Watkins</hi> got up his Staff and ſtruck him a blow on the left ſide of the Head, knocking him down, of which Wound he languiſhed till the 22 of <hi>September,</hi> and then died. The Priſoners pleaded that the Deceaſed firſt aſſaulted them, and that they were Fruterers, and going about their lawful occa<g ref="char:EOLhyphen"/>ſions to buy Fruit in <hi>Newgate</hi> Market; but the Chirurgion giving in upon Oath that according to the beſt of his Skill, the man died of the Wound, where<g ref="char:EOLhyphen"/>upon they were both found Guilty of the Murther.</p>
+            <p>
+               <hi>Elizabeth Hull</hi> was tried for ſtealing one Bag vallued at two pence, and twen<g ref="char:EOLhyphen"/>ty eight pounds of monies numbered, being the monies of <hi>Robert Hadcock</hi> of of the Pariſh of St <hi>Giles</hi> in the Fields ſhe being a Servant to him, took the op<g ref="char:EOLhyphen"/>portunity to get the Keys of a Trunck that ſtood under her Maſters Bed, in which the mony was and opening it, or permitting ſome other to do it, conveyed the Monies thence, upon the miſſing of it, being taxed, ſhe confeſſed that there had been a Man with her, but that the monies was not loſt that day they ſuppoſed it was, but the day before; ſo that upon Evidence of the Trunks being opened. the Lock overſhot, and no one but ſhe admitted into the Chamber, where it ſtood; whereupon ſhe was found Guilty of the Fellony.</p>
+            <p>
+               <hi>Francis Nicholſon,</hi> Indicted for ſtealing a Watch vallued at twenty-two ſhil<g ref="char:EOLhyphen"/>lings from <hi>Robert Iohnſon</hi> of the Pariſh of St. <hi>Margarets Weſtminſter,</hi> the manner thus, he coming into his Shop offered to ſell a Watch which he ſaid he had bought, and by reaſon it was broak was not willing to go to the charge of men<g ref="char:EOLhyphen"/>ding it. u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>on which, the Proſecutor bought it; but not looking well about him the Priſoner had ſtolen another from him, upon which Indictment he was found Guilty.</p>
+            <p>A ſecond Indictment was preferred againſt him and one <hi>George Granger,</hi> for the Murthering of one <hi>Iohn Dimblebe,</hi> Servant to Mr. <hi>Marriot</hi> of <hi>Hampton</hi>-Court where the Murther was Committed, the manner of which barbarous exploit was thus; according to the Confeſſion of <hi>Nicholſon</hi> that <hi>Granger</hi> upon ſome fal<g ref="char:EOLhyphen"/>ling out between him and the Deceaſed. had bidden him fourty ſhillings to Mur<g ref="char:EOLhyphen"/>ther him, and ſomething elſe not named, whereupon he conſented to undertake the Villanous Exploit, and at convenient times made three ſeveral Attempts, but his Heart failed him. and as often he told <hi>Granger</hi> of the ſame, who encou<g ref="char:EOLhyphen"/>raged him as he ſaid, upon which, the fourth time following him into a dark Room on the ſixteenth of <hi>September</hi> loſt, in the Evening, he being a Carpenter
+<pb n="3" facs="tcp:30215:2"/>by Trade, with his Ax felled him, ſo that his Scull was broak in ſeveral places; whether he gave him any more Blowes is not certain, but there he left him weltering in his Blood, till he was found by one Mr. <hi>Cole</hi> who came in queſt of him, he being quite ſenſeleſs, lived only two days afterwards but nevet ſpoke, upon which <hi>Nicholſon</hi> fled towards <hi>London,</hi> which gave ſuſpicion of his Guilt, ſo that being purſued. he was heard of at <hi>Kingſton,</hi> and at the <hi>Half-moon</hi> there, had offered to fell the Watch he after<g ref="char:EOLhyphen"/>wards ſold in <hi>Weſtminſter;</hi> which he took out of the Deceaſeds Pocket. Upan his Trial he perſiſted that he was Guilty of the Murther, but did ſolemnly Affirm <hi>Granger</hi> hired him, but there being no other Teſtimony than his againſt him, and ſeveral Wit<g ref="char:EOLhyphen"/>neſſes produced to prove his good Behaviour and peaceable In<g ref="char:EOLhyphen"/>clination, he was acquitted and <hi>Nicholſon</hi> according to his Con<g ref="char:EOLhyphen"/>feſſion, found Guilty of the Murther.</p>
+            <p>
+               <hi>John Gibbons</hi> was Arraigned and tried for the Murther of <hi>William Smith,</hi> the manner as followeth. The Deceaſed being by Profeſſion a Taylor, and working with one Mr. <hi>Grimes</hi> in <hi>St. Pauls Covent-Garden,</hi> where the Priſoner had put a Suit of Cloathes to alter, for which coming on the 19th of <hi>July</hi> laſt, and they not being done, he fell to Curſing and Swearing, at which (as he alledged, the Taylors, for there were many of them at work) fell a hollowing at him; whereupon he took up a Gooſe that ſtood upon the Board, and threw it at the Deceaſeds Head, which miſſing him he afterwards threw the Sheers, and ſtruck the Point of them thorow his Hat into his Head; making there a d<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> wound, and as it was ſworn in Court, afterwards drew his Sword, ſaying if he had not enough he would give him more. Of this Wound <hi>Smith</hi> languiſhed, often Vomitting Blood, till the 21th of <hi>September.</hi> and then dyed. The priſoner endeavour<g ref="char:EOLhyphen"/>ed to prove he dyed not of that Wound but of a Feavour and in Order to the ſame produced ſeveral Chirurgions who opened the Body yet notwithſtanding the Evidence being plain againſt him he was brought in Guilty of Manſlaughter.</p>
+            <p>
+               <hi>Ralph Markland, Elizabeth Markland, Ann Markland</hi> and <hi>Ro<g ref="char:EOLhyphen"/>bert Gregory</hi> were Indicted for Clipping, and Filing of his Ma<g ref="char:EOLhyphen"/>jeſties Coin, the lawful monies of <hi>England,</hi> viz. 100 of <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> ſhillings, 100 of King <hi>Charles</hi> the firſt his Shillings and one hundred of his Half-Crowns The Evidence againſt <hi>Raplh Mark<g ref="char:EOLhyphen"/>land</hi> ſwore, that he not only ſaw him, but often helped him to Clip ſeveral parcels of moneys to the vallue of 100 pounds, or thereabouts; and that he had given him 22 ſhillings of Clipped
+<pb n="4" facs="tcp:30215:3"/>monies for 20 of Broad, and thereby had made Exchange for conſiderable ſums. Several Clipping Blocks were likewiſe upon ſearch found in his Houſe in the pa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh of Saint <hi>Anns Black-Fry<g ref="char:EOLhyphen"/>ers</hi> and two pair of Sheers for Clipping, lately made for him by a Cutler in <hi>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>u<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hwark</hi> found hid in the Nettles in <hi>Georges-fields,</hi> and that he ſold ſeveral parcels of melted Silver to a Goldſmith in the <hi>Mint.</hi> Againſt <hi>Gregory</hi> it was ſworn that he bought the Clippings of <hi>Markland,</hi> or that he received them to melt down, be<g ref="char:EOLhyphen"/>ing a Refiner by Trade and that he ſupplied him with monies, the ſame being atteſted by a Servant of <hi>Marcklands</hi> who had not on<g ref="char:EOLhyphen"/>ly carried Clipped monies to him in Exchange, but likewiſe ſaw his Maſter weigh and deliver Clippings to him. Againſt <hi>Eliza<g ref="char:EOLhyphen"/>beth</hi> Markland the Evidence was, that ſhe filed ſeveral ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>llings to the number of 20 or thereabouts, but againſt her there was but ſingle Evidence. And againſt Ann Marckland none; ſo that after the Court had given the Jury their Charge punctually to every circumſtance, they only found Ralph Marckland Guilty of the High-Treaſon, and acquitted the reſt.</p>
+            <p>There were ſeveral of the N<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bility and Gentry appeared upon their Indictments for Recuſancy, many perſons of Honour and worth conforming to the Church of <hi>England</hi> in all the particu<g ref="char:EOLhyphen"/>lars of the Proteſtant Religion, and others continued upon Bail to Anſwer the ſame at the next General Seſſions to be holden for the Ci<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of <hi>London</hi> and County of <hi>Mildleſex &amp;c.</hi>
+            </p>
+            <p>
+               <hi>Iohn Neal</hi> was tried for breaking open the Houſe of <hi>Iames Iones</hi> of the Pariſh of <hi>Ho<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nſey</hi> on the eighteenth of <hi>Iuly,</hi> and in the Company of eleven more, and ſtealing thence Goods to the Vallue of fi<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty pounds, he confeſſed the Robbery upon evidence, and thereupon was found Guilty of the Fellony and Burglary.</p>
+            <p>
+               <hi>Priſcilla Winn</hi> was alſo found Guilty upon her Trial for ſtealing a ſilver Por<g ref="char:EOLhyphen"/>ringer from <hi>David Lockly</hi> vallued at 50 ſhillings.</p>
+            <p>There were in all 8 that received Sentance of Death, <hi>Viz.</hi> Ralph Markland, Frances Nicholſon, Catherine Green, alias Dodſon, Iohn Watkins, Iohn Neal, Priſ<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>la Win, Elizabeth Hull and Edward Whittaker, and three to be whip'd.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>D. Mallet,</hi> 1680.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
